@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T07:33:34.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xM094vAAuieAMiG30Ngo" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T08:16:25.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_XS-PJXpUZoWWHyuRtgw" version="21.3.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2044" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,232 +10,232 @@
         <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="client（HK）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="client&amp;amp;Tax（HK）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="220" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-1" value="TPM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-1" value="TPM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="400" y="40" width="100" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-1" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-4" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-4" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="580" y="40" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-4">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-4" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-5">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="aM9ryv3xv72pqoxQDRHE-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="140" as="sourcePoint" />
             <mxPoint x="150" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-8" value="生成客户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-8" value="生成客户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="115" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-9" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-9" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="165" as="sourcePoint" />
             <mxPoint x="310" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-10" value="返回client id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="140" width="90" height="30" as="geometry" />
+        <mxCell id="BpLGuIl4eHYB20YLINkt-10" value="返回client_id,client_recipient_id,invoice_title_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="30" y="140" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="230" as="sourcePoint" />
             <mxPoint x="150" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-12" value="创建CT（携带custom client id,tax client id,delivery client id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="195" width="350" height="30" as="geometry" />
+        <mxCell id="BpLGuIl4eHYB20YLINkt-12" value="创建CT（携带client_id,client_recipient_id,invoice_title_id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="95" y="195" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="458" y="251" as="sourcePoint" />
             <mxPoint x="627.5" y="251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-14" value="创建CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-14" value="创建CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="510" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-15" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-15" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="626" y="270" as="sourcePoint" />
             <mxPoint x="455.5" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="BpLGuIl4eHYB20YLINkt-2" target="aM9ryv3xv72pqoxQDRHE-1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" source="BpLGuIl4eHYB20YLINkt-2" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="290" as="sourcePoint" />
             <mxPoint x="490" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-17" value="TW官网" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-17" value="TW官网" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="50" y="548" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-17">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-17" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-19" value="client（HK）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-19" value="client（HK）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="230" y="548" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-19">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-19" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-23" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-23" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="415" y="548" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-23">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-23" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-19">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="648" as="sourcePoint" />
             <mxPoint x="160" y="598" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-26" value="生成客户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-26" value="生成客户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="623" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-17">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" target="BpLGuIl4eHYB20YLINkt-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="673" as="sourcePoint" />
             <mxPoint x="320" y="623" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-28" value="返回client id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="648" width="90" height="30" as="geometry" />
+        <mxCell id="BpLGuIl4eHYB20YLINkt-28" value="返回client_id,client_recipient_id,invoice_title_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="648" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="738" as="sourcePoint" />
             <mxPoint x="459.5" y="738" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-30" value="创建CT（携带custom client id,tax client id,delivery client id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="703" width="350" height="30" as="geometry" />
+        <mxCell id="BpLGuIl4eHYB20YLINkt-30" value="创建CT（携带client_id,client_recipient_id,invoice_title_id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="105" y="703" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-32" value="创建CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-32" value="创建CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="733" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-17">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" target="BpLGuIl4eHYB20YLINkt-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="798" as="sourcePoint" />
             <mxPoint x="500" y="748" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-35" value="台湾第三方创建CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-35" value="台湾第三方创建CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-130" y="135" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-36" value="tw官网创建CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-36" value="tw官网创建CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-130" y="685" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-37" value="TPM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-37" value="TPM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="50" y="1090" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-37">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-37" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-39" value="client（GZ）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-39" value="client（GZ）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="230" y="1090" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-39">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-39" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-43" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-43" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="414" y="1090" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-43">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-43" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-39">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-45" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1190" as="sourcePoint" />
             <mxPoint x="160" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-46" value="生成客户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-46" value="生成客户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="1165" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-47" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-37">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-47" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" target="BpLGuIl4eHYB20YLINkt-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="1215" as="sourcePoint" />
             <mxPoint x="320" y="1165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-48" value="返回client id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1190" width="90" height="30" as="geometry" />
+        <mxCell id="BpLGuIl4eHYB20YLINkt-48" value="返回client_id,client_recipient_id,invoice_title_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1190" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-49" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1280" as="sourcePoint" />
             <mxPoint x="459.5" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-50" value="创建CT（携带custom client id,tax client id,delivery client id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1245" width="350" height="30" as="geometry" />
+        <mxCell id="BpLGuIl4eHYB20YLINkt-50" value="创建CT（携带client_id,client_recipient_id,invoice_title_id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="105" y="1245" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-37">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" target="BpLGuIl4eHYB20YLINkt-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="1340" as="sourcePoint" />
             <mxPoint x="500" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-55" value="CN第三方创建CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-55" value="CN第三方创建CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-120" y="1185" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-56" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-56" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="50" y="1583" width="100" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-56">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-56" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-58" value="TAX（GZ）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-58" value="TAX（GZ）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="230" y="1583" width="100" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-58">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-58" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-60" value="client(GZ)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-60" value="client(GZ)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="592" y="1583" width="100" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-60">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-60" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-62" value="client(HK)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-62" value="client(HK)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="772" y="1583" width="100" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-63" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-62">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-63" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-62" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-74" value="CN开立发票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-74" value="CN开立发票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-105" y="1678" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-75" value="CN发票平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-75" value="CN发票平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="952" y="1583" width="100" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-76" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-75">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-76" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-75" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-78" value="TW发票平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-78" value="TW发票平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="1132" y="1583" width="100" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-78">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-78" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-81" value="TAX（HK）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-81" value="TAX（HK）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="410" y="1583" width="100" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-81">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-81" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-84" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="BpLGuIl4eHYB20YLINkt-56" target="BpLGuIl4eHYB20YLINkt-56">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-84" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="BpLGuIl4eHYB20YLINkt-56" target="BpLGuIl4eHYB20YLINkt-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1700" as="sourcePoint" />
             <mxPoint x="160" y="1760" as="targetPoint" />
@@ -245,138 +245,138 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-85" value="判断当前CT 是CN 还是TW的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-85" value="判断当前CT 是CN 还是TW的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="1715" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-86" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-58">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-86" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1830" as="sourcePoint" />
             <mxPoint x="160" y="1780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-87" value="如果是CN的单，call 开立发票 api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-87" value="如果是CN的单，call 开立发票 api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="1795" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-60">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-88" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="1850" as="sourcePoint" />
             <mxPoint x="330" y="1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-90" value="获取用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-90" value="获取用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="475" y="1820" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-91" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-58">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-91" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" target="BpLGuIl4eHYB20YLINkt-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="1880" as="sourcePoint" />
             <mxPoint x="690" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-92" value="返回用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-92" value="返回用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="468" y="1855" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-93" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-93" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="1957" as="sourcePoint" />
             <mxPoint x="1001.5" y="1957" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-94" value="开票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-94" value="开票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="865" y="1932" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-95" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-95" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="1997" as="sourcePoint" />
             <mxPoint x="285" y="1997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BpLGuIl4eHYB20YLINkt-59" target="BpLGuIl4eHYB20YLINkt-56">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BpLGuIl4eHYB20YLINkt-59" target="BpLGuIl4eHYB20YLINkt-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="1910" as="sourcePoint" />
             <mxPoint x="320" y="1860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-58">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-97" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1940" as="sourcePoint" />
             <mxPoint x="160" y="1900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-98" value="获取发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-98" value="获取发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="1885" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-99" value="返回发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-99" value="返回发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="1915" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-100" value="返回开票结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-100" value="返回开票结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="840" y="1965" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-56">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-101" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="2040" as="sourcePoint" />
             <mxPoint x="330" y="1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-102" value="更新发票状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-102" value="更新发票状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="2013" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-104" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-58">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-104" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" target="BpLGuIl4eHYB20YLINkt-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="2070" as="sourcePoint" />
             <mxPoint x="150" y="2020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-105" value="返回更新结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BpLGuIl4eHYB20YLINkt-104">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-105" value="返回更新结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BpLGuIl4eHYB20YLINkt-104" vertex="1" connectable="0">
           <mxGeometry x="-0.4429" y="4" relative="1" as="geometry">
             <mxPoint x="20" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-106" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-106" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="60" y="2241" width="100" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-107" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-106">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-107" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-106" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-108" value="TAX（HK）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-108" value="TAX（HK）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="240" y="2241" width="100" height="499" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-109" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-108">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-109" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-108" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-110" value="client(HK)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-110" value="client(HK)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="602" y="2241" width="100" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-111" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-110">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-111" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-110" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-112" value="client(GZ)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-112" value="client(GZ)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="782" y="2241" width="100" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-113" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-112">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-113" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-112" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-114" value="TW开立发票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-114" value="TW开立发票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-95" y="2336" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-115" value="TW发票平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-115" value="TW发票平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="962" y="2241" width="100" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-116" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-115">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-116" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-115" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-117" value="CN发票平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-117" value="CN发票平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="1142" y="2241" width="100" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-118" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-117">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-118" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-117" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-119" value="TAX（GZ）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-119" value="TAX（GZ）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="420" y="2241" width="100" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-120" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-119">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-120" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-119" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="BpLGuIl4eHYB20YLINkt-106" target="BpLGuIl4eHYB20YLINkt-106">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-121" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="BpLGuIl4eHYB20YLINkt-106" target="BpLGuIl4eHYB20YLINkt-106" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="2358" as="sourcePoint" />
             <mxPoint x="170" y="2418" as="targetPoint" />
@@ -386,120 +386,120 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-122" value="判断当前CT 是CN 还是TW的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-122" value="判断当前CT 是CN 还是TW的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="2373" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-123" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-108">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-123" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-108" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="2488" as="sourcePoint" />
             <mxPoint x="170" y="2438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-124" value="如果是TW的单，call 开立发票 api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-124" value="如果是TW的单，call 开立发票 api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="2453" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-125" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-110">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-125" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-110" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="2508" as="sourcePoint" />
             <mxPoint x="340" y="2458" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-126" value="获取用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-126" value="获取用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="485" y="2478" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-127" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-108">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-127" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" target="BpLGuIl4eHYB20YLINkt-108" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="2538" as="sourcePoint" />
             <mxPoint x="700" y="2488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-128" value="返回用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-128" value="返回用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="478" y="2513" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-129" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-129" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="2615" as="sourcePoint" />
             <mxPoint x="1011.5" y="2615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-130" value="开票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-130" value="开票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="875" y="2590" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-131" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-131" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="2655" as="sourcePoint" />
             <mxPoint x="295" y="2655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-132" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BpLGuIl4eHYB20YLINkt-109" target="BpLGuIl4eHYB20YLINkt-106">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-132" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BpLGuIl4eHYB20YLINkt-109" target="BpLGuIl4eHYB20YLINkt-106" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="2568" as="sourcePoint" />
             <mxPoint x="330" y="2518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-133" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-108">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-133" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-108" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="2598" as="sourcePoint" />
             <mxPoint x="170" y="2558" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-134" value="获取发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-134" value="获取发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="2543" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-135" value="返回发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-135" value="返回发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="2573" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-136" value="返回开票结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-136" value="返回开票结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="850" y="2623" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-137" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-106">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-137" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="BpLGuIl4eHYB20YLINkt-106" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="2698" as="sourcePoint" />
             <mxPoint x="340" y="2648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-138" value="更新发票状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-138" value="更新发票状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="2671" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-139" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" target="BpLGuIl4eHYB20YLINkt-108">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-139" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" target="BpLGuIl4eHYB20YLINkt-108" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="2728" as="sourcePoint" />
             <mxPoint x="160" y="2678" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-140" value="返回更新结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BpLGuIl4eHYB20YLINkt-139">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-140" value="返回更新结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BpLGuIl4eHYB20YLINkt-139" vertex="1" connectable="0">
           <mxGeometry x="-0.4429" y="4" relative="1" as="geometry">
             <mxPoint x="20" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-141" value="ct console ui" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-141" value="ct console ui" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="70" y="2944" width="100" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-142" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-141">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-142" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-141" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-143" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-143" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="250" y="2944" width="100" height="476" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-144" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-143">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-144" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-143" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-147" value="client(GZ)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-147" value="client(GZ)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="458" y="2944" width="100" height="476" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-148" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-147">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-148" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-147" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-149" value="ct console 新增CN发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-149" value="ct console 新增CN发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-125" y="3039" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-150" value="client(HK)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-150" value="client(HK)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="638" y="2944" width="100" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-151" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-150">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-151" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-150" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-176" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-176" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="3050" as="sourcePoint" />
             <mxPoint x="117.5" y="3130" as="targetPoint" />
@@ -509,28 +509,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-177" value="判断当前CT 是CN 还是TW的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-177" value="判断当前CT 是CN 还是TW的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="3075" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-178" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-178" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="3193" as="sourcePoint" />
             <mxPoint x="507.5" y="3193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-179" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-179" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="3252" as="sourcePoint" />
             <mxPoint x="119.5" y="3252" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-180" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-180" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="3306" as="sourcePoint" />
             <mxPoint x="299.5" y="3306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-181" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-181" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="295" y="3357" as="sourcePoint" />
             <mxPoint x="119.5" y="3357" as="targetPoint" />
@@ -539,46 +539,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-182" value="如果是CN的单，call gz client api 新增发票用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-182" value="如果是CN的单，call gz client api 新增发票用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="3155" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-183" value="新增发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-183" value="新增发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="3285" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-184" value="返回新增结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-184" value="返回新增结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="3325" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-185" value="返回 发票 client id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="3225" width="120" height="30" as="geometry" />
+        <mxCell id="BpLGuIl4eHYB20YLINkt-185" value="返回 发票&amp;nbsp;invoice_title_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="140" y="3225" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-186" value="ct console ui" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-186" value="ct console ui" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="80" y="3557" width="100" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-187" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-186">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-187" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-186" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-188" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-188" value="CT" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="260" y="3557" width="100" height="476" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-189" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-188">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-189" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-188" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-190" value="client(HK)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-190" value="client(HK)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="468" y="3557" width="100" height="476" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-191" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-190">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-191" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-190" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-192" value="ct console 新增TW发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-192" value="ct console 新增TW发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-115" y="3652" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-193" value="client(GZ)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-193" value="client(GZ)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="648" y="3557" width="100" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-194" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="BpLGuIl4eHYB20YLINkt-193">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-194" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="BpLGuIl4eHYB20YLINkt-193" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-195" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-195" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="3663" as="sourcePoint" />
             <mxPoint x="127.5" y="3743" as="targetPoint" />
@@ -588,28 +588,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-196" value="判断当前CT 是CN 还是TW的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-196" value="判断当前CT 是CN 还是TW的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="3688" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-197" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-197" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="3806" as="sourcePoint" />
             <mxPoint x="517.5" y="3806" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-198" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-198" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="3865" as="sourcePoint" />
             <mxPoint x="129.5" y="3865" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-199" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-199" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="3919" as="sourcePoint" />
             <mxPoint x="309.5" y="3919" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-200" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-200" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="305" y="3970" as="sourcePoint" />
             <mxPoint x="129.5" y="3970" as="targetPoint" />
@@ -618,17 +618,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-201" value="如果是CN的单，call tw client api 新增发票用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-201" value="如果是CN的单，call tw client api 新增发票用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="3768" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-202" value="新增发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-202" value="新增发票信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="3898" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-203" value="返回新增结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BpLGuIl4eHYB20YLINkt-203" value="返回新增结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="3938" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpLGuIl4eHYB20YLINkt-204" value="返回 发票 client id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="3838" width="120" height="30" as="geometry" />
+        <mxCell id="BpLGuIl4eHYB20YLINkt-204" value="返回 发票&amp;nbsp;invoice_title_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="3838" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
