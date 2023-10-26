@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T08:34:56.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Is28ypjK31anOuoET9rU" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T08:39:35.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OF9hAX7-n6r7u9FImL9h" version="22.0.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2175" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2267" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -729,8 +729,8 @@
             <mxPoint x="469.5" y="4847" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNewKd3d9YFetFdgsOBK-26" value="call 修改付运资料 api（携带client_recipient_id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="145" y="4812" width="280" height="30" as="geometry" />
+        <mxCell id="QNewKd3d9YFetFdgsOBK-26" value="call&amp;nbsp; api（携带client_recipient_id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="4812" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QNewKd3d9YFetFdgsOBK-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" target="QNewKd3d9YFetFdgsOBK-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -738,8 +738,8 @@
             <mxPoint x="510" y="4857" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNewKd3d9YFetFdgsOBK-28" value="CN修改付运资料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="4752" width="110" height="30" as="geometry" />
+        <mxCell id="QNewKd3d9YFetFdgsOBK-28" value="CN修改付运资料/重寄" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="4752" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QNewKd3d9YFetFdgsOBK-29" value="Fulfillment" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="604" y="4657" width="100" height="300" as="geometry" />
@@ -798,8 +798,8 @@
             <mxPoint x="479.5" y="5225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNewKd3d9YFetFdgsOBK-45" value="call 修改付运资料 api（携带client_recipient_id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="5190" width="280" height="30" as="geometry" />
+        <mxCell id="QNewKd3d9YFetFdgsOBK-45" value="call api（携带client_recipient_id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="5190" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QNewKd3d9YFetFdgsOBK-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" target="QNewKd3d9YFetFdgsOBK-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -807,8 +807,8 @@
             <mxPoint x="520" y="5235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNewKd3d9YFetFdgsOBK-47" value="TW修改付运资料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="5130" width="110" height="30" as="geometry" />
+        <mxCell id="QNewKd3d9YFetFdgsOBK-47" value="TW修改付运资料/重寄" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="5130" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QNewKd3d9YFetFdgsOBK-48" value="Fulfillment" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="614" y="5035" width="100" height="300" as="geometry" />
@@ -821,6 +821,12 @@
             <mxPoint x="660" y="5238" as="sourcePoint" />
             <mxPoint x="710" y="5188" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QNewKd3d9YFetFdgsOBK-51" value="call&amp;nbsp; api（携带client_recipient_id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="4762" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNewKd3d9YFetFdgsOBK-52" value="call&amp;nbsp; api（携带client_recipient_id）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="468" y="5140" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
